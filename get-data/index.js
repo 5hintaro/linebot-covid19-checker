@@ -7,7 +7,7 @@ exports.handler = function(event, context) {
     var bucket = 'BUCKET_NAME';
     var key = 'FILE_NAME';
     var body = '';
-    var url = "https://raw.githubusercontent.com/kaz-ogiwara/covid19/master/data/prefectures.csv"
+    var url = "URL_NAME"
     
     https.get(url, function(res) {
         console.log("Response: " + res.statusCode);
