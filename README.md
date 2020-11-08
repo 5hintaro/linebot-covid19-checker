@@ -13,3 +13,9 @@ LambdaとAPI Gateway、S3を利用しております。
 
 ## Architecture
 ![linebot-covid19-checker](https://user-images.githubusercontent.com/40231475/98465696-03964b80-220e-11eb-8077-caaa02da4de6.jpeg)
+
+## Article
+
+AWSとLINE BOTを使って簡単にコロナウイルス感染者数をチェックする - Qiita
+
+https://qiita.com/5hintaro/items/f1fa2cd4e61eb41c0f59
